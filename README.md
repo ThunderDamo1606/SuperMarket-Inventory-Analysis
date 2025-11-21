@@ -120,7 +120,7 @@ Follow these steps to set up the project on your local machine.
 ### 1. Clone the repository :
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ThunderDamo1606/SuperMarket-Inventory-Analysis.git
 cd supermarket-project
 
 ```
